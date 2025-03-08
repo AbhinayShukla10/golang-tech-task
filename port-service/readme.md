@@ -20,3 +20,4 @@ Port Service is a simple **Go-based REST API** that allows users to fetch port d
 ```sh
 git clone https://github.com/abinayshukla10/port-service.git
 cd port-service
+use the fileports.josn or similar formatat same location as exe file
